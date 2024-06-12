@@ -1,0 +1,16 @@
+:root {
+    --header-height: 5rem;
+    --footer-height: 3rem;
+    --x-padding: 2rem;
+    --text-color: #222;
+    --bg-color: #eee;
+    --border-color: #ddd;
+    --nav-hover-color: #dad9d9;
+}
+
+[data-theme="dark"] {
+    --text-color: #eee;
+    --bg-color: #222;
+    --border-color: #333;
+    --nav-hover-color: #383838;
+}
